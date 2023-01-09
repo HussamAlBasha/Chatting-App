@@ -14,8 +14,8 @@ The latter was tested using netem. For the application to function several steps
 1) Run the Server.py (This will exchange the details and can be turned off after exchanging the ips and port numbers of the 2 peers)
 2) run Client1.py and Client2.py on separate terminals
 3) you can start the chat:
-To request sending a file, write /file
-To request sending an image, write /image
+To request sending a file, write /file |
+To request sending an image, write /image |
 To exit the application, write /exit  
 
 Note that the file or the image that you want to send must be in the same folder or path of the code application file.
